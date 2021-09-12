@@ -1,4 +1,4 @@
-My main focus these days is on [Open Education Analytics](openeducationanalytics.org)
+My main focus these days is on [Open Education Analytics](https://openeducationanalytics.org) (github repo found at: [OpenEduAnalytics](https://github.com/microsoft/OpenEduAnalytics))
 
 <!--
 **genegc/genegc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
